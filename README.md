@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I’m Ahmed Rashad  
 
-<!--
-**arashadswe/arashadswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Java Backend Developer** | 🚀 Just started my journey with **Java + Data Structures & Algorithms**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- 📘 Learning **Core Java** (OOP, Collections, Streams, Exceptions)  
+- 🔢 Beginning with **Data Structures & Algorithms** in Java  
+- 🎯 Practicing problem solving on **LeetCode & HackerRank**  
+
+---
+
+## 🛠️ Skills in Progress
+- **Languages:** Java (primary), SQL (learning soon)  
+- **Topics Ahead:**  
+  - Spring Boot + REST APIs + Microservices  
+  - Databases: PostgreSQL & MongoDB  
+  - Docker, Kubernetes, and Cloud (AWS/GCP/Azure)  
+  - Messaging Queues (Kafka, RabbitMQ)  
+
+---
+
+## 📈 Problem Solving
+- Currently building the habit of solving problems daily  
+- Focus areas: Arrays, Strings, Recursion, Sorting, Searching  
+- Goal: grow into tackling **LeetCode Mediums** confidently  
+
+---
+
+## 🌍 Career Goal
+📌 Become a strong **Java Backend Engineer**  
+📌 Build practical backend projects to showcase on GitHub  
+📌 Work remotely with global teams in the UK/US/EU market  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: ahm.rashad.swe@gmail.com
+
+---
+⭐️ *Currently starting with Java fundamentals. I’ll update this profile as I grow — follow along on my journey!*
